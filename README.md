@@ -12,7 +12,7 @@ Siga os passos abaixo:
 
 Clone o repositório:
 
-git clone https://github.com/larissacsena/atividade-2-solutis.git
+git clone https://github.com/AlmadaAlmada/atividade-2-solutis.git
 
 Navegue até o diretório do projeto:
 
